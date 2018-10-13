@@ -1,3 +1,3 @@
 # rebu
 
-the open source uber dapp!
+the open source Uber dapp!
